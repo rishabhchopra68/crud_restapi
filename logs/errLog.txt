@@ -1,0 +1,28 @@
+20220822	13:54:35	2cde2c27-2d89-4080-83d2-25bd6625f56f	TypeError: fsPromises.reaFile is not a function
+20220825	02:56:12	7b7d324f-0fc2-49e3-a00e-0e74a0b69ffd	Error	Not allowed by CORS
+20220825	03:01:16	4ebdf37c-8aa4-4f16-be54-ee6bb14d8b4d	Error	Not allowed by CORS
+20220825	03:01:16	d4818d96-296d-49f8-bbf5-00230c458430	Error	Not allowed by CORS
+20220825	03:01:32	8116974e-007d-49f6-874c-32c0eead3a48	Error	Not allowed by CORS
+20220825	03:02:05	3cb59faa-2a01-4de4-9dd4-345cb5d919c2	Error	Not allowed by CORS
+20220825	03:04:09	3d34e546-503c-4bf7-881a-794e95dbda93	Error	Not allowed by CORS
+20220825	03:05:39	7e7bc1aa-3439-4a8b-b836-49b3c9f1e8f3	Error	Not allowed by CORS
+20220825	03:05:48	cfd09463-b025-4ab5-b21d-7e93a4317eb5	Error	Not allowed by CORS
+20220826	16:45:41	f19fc661-6042-4b4f-b712-34b44bd24911	Error	ENOENT: no such file or directory, stat '/Users/rishabhchopra/Desktop/js-projects/nodejs_web_server/routes/views/subdir/index.html'
+20220826	16:47:56	beabd67a-7b25-4b0e-8acb-657da9ad91ae	Error	ENOENT: no such file or directory, stat '/Users/rishabhchopra/Desktop/js-projects/nodejs_web_server/routes/views/subdir/index.html'
+20220826	16:47:57	707c2d1e-d5ab-4ad5-8cdd-0763835b9a7b	Error	ENOENT: no such file or directory, stat '/Users/rishabhchopra/Desktop/js-projects/nodejs_web_server/routes/views/subdir/index.html'
+20220826	17:01:19	2032ccff-6a50-41ea-b0d7-6dc59b7d0d2c	Error	ENOENT: no such file or directory, stat '/Users/rishabhchopra/Desktop/js-projects/nodejs_web_server/routes/views/index.html'
+20220826	17:45:59	c05db8f0-6330-4200-9566-632c79024e07	TypeError	Cannot read properties of undefined (reading 'firstname')
+20220826	17:47:08	918fb7c8-f95a-4001-b6c2-ab5c90479660	TypeError	Cannot read properties of undefined (reading 'firstname')
+20220826	17:50:04	644886d4-1433-4093-8dfd-b34e56285020	TypeError	Cannot read properties of undefined (reading 'firstname')
+20220826	17:51:59	fca04d80-a5c2-4b87-9374-6cb660391932	TypeError	Cannot read properties of undefined (reading 'firstname')
+20220826	17:53:27	cd441541-ce9c-4b56-ba40-4ee3e3f8ebef	TypeError	Cannot read properties of undefined (reading 'firstname')
+20220826	17:54:19	af289a80-733a-4f23-8c32-c73e5020a1e8	TypeError	Cannot read properties of undefined (reading 'firstname')
+20220826	17:54:29	5eaa8136-e885-4df2-bb8c-a6a230d51764	TypeError	Cannot read properties of undefined (reading 'firstname')
+20220826	17:56:28	ed102dce-3b3b-4874-bfc0-b1623f5105f8	TypeError	Cannot read properties of undefined (reading 'firstname')
+20220826	17:57:34	75956d8e-1249-416d-b7c1-41bab53def57	TypeError	Cannot read properties of undefined (reading 'firstname')
+20220826	18:02:11	e38c98be-c963-4163-ae2d-88b80a703fe6	TypeError	Cannot read properties of undefined (reading 'firstname')
+20220826	18:02:30	8b58b390-5373-4259-a9cf-bf413c9dd70f	TypeError	Cannot read properties of undefined (reading 'firstname')
+20220826	18:13:16	c613bfe7-daa0-4e2d-b7e5-b8a4324d858a	TypeError	Cannot read properties of undefined (reading 'firstname')
+20220901	15:53:12	f5ad1938-aa01-4871-aac0-755f755d4844	TypeError	Cannot read properties of undefined (reading 'username')
+20220906	16:52:01	7ec8beb8-bae6-4d5c-95de-c74630ead7eb	SyntaxError	Unexpected end of JSON input
+20220906	16:54:46	f258b164-5407-47fd-9cf9-7ea7f6910429	TypeError	this.type is not a function
